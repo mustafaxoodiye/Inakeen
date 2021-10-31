@@ -22,8 +22,11 @@
   --thm-reey-font: "reeyregular";
   --thm-gray: #787780;
   --thm-gray-rgb: 120, 119, 128;
+  /* --thm-primary: #be5bd6; */
+  /* --thm-primary: #e0777d; */
+  --thm-primary: #db4ce8;
   /* --thm-primary: #e8604c; */
-  --thm-primary: #951b81;
+  /* --thm-primary: #951b81; */
   --thm-primary-rgb: 232, 96, 76;
   --thm-black: #313041;
   --thm-black-rgb: 49, 48, 65;
